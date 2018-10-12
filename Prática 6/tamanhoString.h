@@ -1,0 +1,1 @@
+int stringLenght (char string[]);
