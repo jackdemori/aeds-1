@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "tamanhoString"
+#include "TamanhoString"
 
 int main ()
 {

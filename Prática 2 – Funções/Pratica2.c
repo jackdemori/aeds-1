@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "estatistica.h"
+#include "probabilidade.h"
 
 int main ()
 {

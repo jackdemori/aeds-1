@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "tamanhoString"
+#include "TamanhoString"
 
 #define MAX_SIZE 128
 

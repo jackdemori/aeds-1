@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "pratica4.h"
+#include "Pratica4.h"
 
 int main ()
 {
