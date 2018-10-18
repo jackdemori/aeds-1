@@ -100,18 +100,18 @@ float coeficienteAglomeracao(int v)
     for(int j = 0; j < NUM_PESSOAS; j++)
     {
         //Para cada amizade da pessoa V (vamos chamar de J)
-		if(M[v][j] == 1 && v != j)
+        if(M[v][j] == 1 && v != j)
         {
-			for(int k = j; k < NUM_PESSOAS; k++)
+            for(int k = j; k < NUM_PESSOAS; k++)
             {
                 //Confere quais amigos de J tambem sao amigos de V
-				if(M[v][k] == 1 && M[j][k] == 1 && v != k && k != j && v != j)
+                if(M[v][k] == 1 && M[j][k] == 1 && v != k && k != j && v != j)
                 {
-					count++;
-				}
-			}
-		}
-	}
+                    count++;
+                }
+            }
+        }
+    }
 
     return count / ((float)n * (n - 1) / 2.0);
 }
