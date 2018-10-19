@@ -67,4 +67,5 @@ int main ()
     }
 
     printf("O guerreiro %d venceu a luta apos %d rodadas", id_vencedor, turn);
+    return 0;
 }
