@@ -27,4 +27,5 @@ int main ()
     }
 
     printf("O guerreiro %d venceu a luta apos %d rodadas", (a.pontos_vida > 0 ? a.id_jogador : b.id_jogador), turn);
+    return 0;
 }
