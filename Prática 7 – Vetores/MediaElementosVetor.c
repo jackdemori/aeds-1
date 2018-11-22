@@ -25,4 +25,6 @@ int main ()
     }
 
     printf("Media: %f", MediaElementosVetor(v, TAM_MAX));
+
+    return 0;
 }

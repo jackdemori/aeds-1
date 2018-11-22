@@ -27,4 +27,6 @@ int main ()
     {
         printf("%d ", y[i]);
     }
+
+    return 0;
 }

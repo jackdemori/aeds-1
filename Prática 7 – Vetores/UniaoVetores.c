@@ -99,4 +99,6 @@ int main ()
     {
         printf("\n%d apareceu %d vez no conjunto", u[i], CountElemento(u, u[i], k_tamanho));
     }*/
+
+    return 0;
 }

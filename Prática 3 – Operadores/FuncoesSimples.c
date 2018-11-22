@@ -30,4 +30,5 @@ int main ()
     printf("\nPar Ou Impar (2) %d", parOuImpar(2));
     printf("\nPar Ou Impar (13) %d", parOuImpar(13));
     printf("\nPar Ou Impar (11) %d", parOuImpar(11));
+    return 0;
 }

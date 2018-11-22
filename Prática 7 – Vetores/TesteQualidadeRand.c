@@ -57,4 +57,6 @@ int main ()
     sigma = sqrt(somatorio / MAX);
 
     printf("\nDesvio padrao: %.2f", sigma);
+
+    return 0;
 }

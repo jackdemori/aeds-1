@@ -15,4 +15,5 @@ int main ()
     unsigned long long resultado = fast_pow_2 (expoente);
 
     printf ("%llu", resultado);
+    return 0;
 }

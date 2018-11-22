@@ -13,4 +13,6 @@ int main()
     //se voce eh forte, remova o comentario da linha abaixo
     printf("\ncoef. de aglomeracao da pessoa 2 eh: %.2f", coeficienteAglomeracao(2));
     //gabarito: 0.67
+
+    return 0;
 }

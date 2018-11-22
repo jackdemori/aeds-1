@@ -14,4 +14,5 @@ int main ()
 	printf("\n\nC) :%f", divInts(7,3));
 	printf("\nC) :%f", divInts(10,6));
 	printf("\nC) :%f", divInts(17,13));
+	return 0;
 }

@@ -17,4 +17,6 @@ int main ()
     float v[] = {3, 2, 1};
 
     printf("%.2f", ProdutoEscalar(u, v, 3));
+
+    return 0;
 }

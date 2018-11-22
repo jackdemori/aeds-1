@@ -43,4 +43,6 @@ int main ()
     {
         printf("%d ", z[i]);
     }
+
+    return 0;
 }

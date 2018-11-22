@@ -23,4 +23,6 @@ int main ()
             printf("\nSaida: %d", fib[entrada - 1]);
     }
     while (entrada > -1 && entrada < 1001);
+
+    return 0;
 }

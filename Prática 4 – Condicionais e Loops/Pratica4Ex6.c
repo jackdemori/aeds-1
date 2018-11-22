@@ -19,4 +19,6 @@ int main ()
     {
         printf("Voce precisa perder %f.2 KG", weight - pesoIdeal);
     }
+    
+    return 0;
 }
