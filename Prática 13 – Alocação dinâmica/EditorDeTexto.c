@@ -18,7 +18,7 @@ int main ()
     {
         input = getche();
 
-        //Caso o usuario pressione ENTER, troca a entrada por /n
+        //Caso o usuario pressione ENTER, troca a entrada por '/n'
         if (input == '\r')
         {
             input = '\n';
